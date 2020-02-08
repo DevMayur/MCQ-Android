@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorUiCard1">#ff7979</color>
+    <color name="colorUiCard2">#4834d4</color>
+    <color name="colorUiCard3">#30336b</color>
+    <color name="colorUiCard4">#22a6b3</color>
+    <color name="colorUiCard5">#535c68</color>
+    <color name="colorUiCard6">#7ed6df</color>
+    <color name="colorNormalAnswer">#cacaca</color>
+    <color name="colorCorrectAnswer">#6ab04c</color>
+
+</resources>

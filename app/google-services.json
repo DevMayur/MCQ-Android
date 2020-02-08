@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788817876838",
+    "firebase_url": "https://onlineexaminationsystem-45952.firebaseio.com",
+    "project_id": "onlineexaminationsystem-45952",
+    "storage_bucket": "onlineexaminationsystem-45952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788817876838:android:804ec5b58e56d4efb5daa7",
+        "android_client_info": {
+          "package_name": "com.srkakadesir.onlineexaminationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788817876838-hujqe45757o6bejfcav58nol4fg1ml9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srkakadesir.onlineexaminationsystem",
+            "certificate_hash": "c8a14b90c9b58dea83e398cb9069f6d575a0416a"
+          }
+        },
+        {
+          "client_id": "788817876838-59dv74bemfgj1u7a5o3iglc66srqebt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEubsYYL6WkujkV3VF-Skl6INl-5KdarA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788817876838-59dv74bemfgj1u7a5o3iglc66srqebt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
